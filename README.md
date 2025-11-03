@@ -1,8 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋, What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Hello!👋 My name is <b>Renz Angelo Priela</b> and I'm currently taking Computer Science from Camarines Sur Polytechnic Colleges</p>
+
+###
+
+<p align="left">I have a huge interest in UI design, and software development, and I am currently learning and exploring how programming can solve real-world problems.</p>
 
 ###
 
