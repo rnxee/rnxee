@@ -1,70 +1,63 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Renz Angelo S. Priela
 
-###
+### 2nd Year Computer Science Student | Robotics and Web Development Learner
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+I'm Renz, a Computer Science student from Camarines Sur Polytechnic College (CSPC) in Camarines Sur, Philippines. I'm currently learning web development with Flask, exploring machine learning, and building more hands-on projects with Arduino and ESP32. Even though I study software development, I enjoy robotics projects the most because they let me combine code with real-world hardware.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## About Me
 
-###
+- Currently learning Flask web development, machine learning, Arduino, and ESP32
+- Interested in robotics, embedded systems, and practical student-built applications
+- Building experience through school projects, personal experiments, and hands-on coding
+- Always improving one project at a time
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+## Tech Stack
 
-<h2 align="left">I code with</h2>
+### Languages
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+### Frameworks and Databases
 
-###
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnxee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnxee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Tools
 
-###
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 
-<div align="left">
-  <a href="https://www.facebook.com/renzsuki" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/rhenzsukii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+---
 
-###
+## Featured Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+| Project | Description | Tech Used | Note |
+| --- | --- | --- | --- |
+| [Personal Budget Tracker System](https://github.com/rnxee/Personal_Budget_Tracker_System) | A web application for managing income, expenses, budgets, savings goals, search/filtering, and CSV export. | Python, Flask, MySQL, XAMPP | School project |
+| [Job Portal System](https://github.com/rnxee/Job_Portal_System) | A system for managing jobs, employers, job seekers, applications, resumes, and interviews using file-based records. | Java | School project |
+| [Product Category Management System](https://github.com/rnxee/product-category-management-system) | A product and category management project with organized folders for models, database logic, UI, utilities, and data. | Python | School Project |
 
-###
+---
+
+## GitHub Overview
+
+![GitHub followers](https://img.shields.io/github/followers/rnxee?style=for-the-badge&label=Followers&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/rnxee?style=for-the-badge&label=Stars&logo=github)
+
+You can check out more of my work on my [GitHub repositories](https://github.com/rnxee?tab=repositories).
+
+---
+
+Currently learning, building, and improving one project at a time.
